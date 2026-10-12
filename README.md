@@ -1,9 +1,18 @@
-
 # Ghar Shiksha website: helping Bhopal families find home tuition support
 
 **Ghar Shiksha is an education and home-tuition project featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The portfolio describes a Bhopal-focused platform connecting families with tutors for personalised learning. The website project's public-facing purpose is to make the offer understandable to parents and students and give local tutoring enquiries a recognisable online destination.**
 
-> **Project-image status:** A genuine standalone Ghar Shiksha website screenshot was not available in the project materials reviewed for this README. The portfolio entry confirms the project, but the image files themselves have not been copied into this repository. The [image checklist](IMAGE-ASSETS-TO-ADD.md) identifies the files to add.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/ghar-shiksha-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/ghar-shiksha-website-mockup.webp" alt="Ghar Shiksha website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/ghar-shiksha-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -44,6 +53,55 @@ The points below describe the purpose and editorial direction supported by the p
 5. **Create a clear path towards an enquiry.** A home-tuition website should make the next action apparent. Actual enquiry-form behaviour and submission handling have not been independently tested for this record.
 6. **Account for both sides of the service.** Parents and students need an understandable way to request learning support; tutors need accurate information about how to participate if recruitment is offered.
 
+## Website and project images
+
+### Official website mockup
+
+The following Tech Conversion portfolio mockup presents the delivered Ghar Shiksha website in a polished project-showcase format.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/ghar-shiksha-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/ghar-shiksha-website-mockup.webp" alt="Ghar Shiksha responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
+
+*Click the image to open the full-resolution mockup.*
+
+### Full-length website screenshot
+
+The following image is the complete published homepage capture supplied through Tech Conversion's project media.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/ghar-shiksha-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/ghar-shiksha-new-website-home-page.webp" alt="Ghar Shiksha complete website homepage screenshot" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
+
+### Image provenance
+
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They document the Ghar Shiksha project visually and replace the earlier README wording that no project images were available.
+
+These images are **not evidence of measured increases in enquiries, tutor registrations, local rankings, revenue or other business outcomes**. Because they are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
+
+No external stock photographs or images from GharPeShiksha, Ghar Ghar Shiksha or other similarly named businesses should be presented as the Ghar Shiksha project.
+
+## Intended visitor journeys
+
+The following are useful checks for the finished website. Because a verified client website URL and complete live-site navigation were not supplied, these are not presented as authenticated live routes.
+
+| Visitor's question | Information the website should make clear |
+|---|---|
+| Is Ghar Shiksha relevant to my family? | Its location, tuition proposition and intended student audience |
+| How can tutoring help the student? | Supported learning needs and the nature of personalised home tuition |
+| Can I request a tutor? | An accurately described, clearly visible contact or enquiry route |
+| How are tutors selected? | Any real, documented eligibility or verification criteria |
+| Can an educator participate? | Tutor registration or contact details, if such a service is offered |
+| What happens after contacting the business? | The next steps actually used by Ghar Shiksha |
+
 ## Relevant website quality standards
 
 These are appropriate review criteria, not claims that this particular project has passed an audit or holds certifications:
@@ -56,36 +114,11 @@ These are appropriate review criteria, not claims that this particular project h
 
 **Child and family data:** any handling of children's personal information needs particular care. This README does not claim that a specific consent mechanism, safeguard or regulatory assessment has been implemented.
 
-## Website and project images
-
-The official [Tech Conversion portfolio](https://techconversion.tech/portfolio) contains a Ghar Shiksha project entry.
-
-However, an independent full-resolution screenshot, its original portfolio-card image and genuine before-and-after images could not be verified or retrieved from the available project files or the current GitHub repository.
-
-Once client-approved original assets are supplied, add them to the `images/` folder and activate the corresponding Markdown references from [IMAGE-ASSETS-TO-ADD.md](IMAGE-ASSETS-TO-ADD.md).
-
-No external stock photographs or images from GharPeShiksha, Ghar Ghar Shiksha or other similarly named businesses should be presented as the Ghar Shiksha project.
-
-## Intended visitor journeys
-
-The following are suggested checks for the finished website, not verified live-page routes. They can help structure a future project walkthrough when the correct client URL or screenshots become available.
-
-| Visitor's question | Information the website should make clear |
-|---|---|
-| Is Ghar Shiksha relevant to my family? | Its location, tuition proposition and intended student audience |
-| How can tutoring help the student? | Supported learning needs and the nature of personalised home tuition |
-| Can I request a tutor? | An accurately described, clearly visible contact or enquiry route |
-| How are tutors selected? | Any real, documented eligibility or verification criteria |
-| Can an educator participate? | Tutor registration or contact details, if such a service is offered |
-| What happens after contacting the business? | The next steps actually used by Ghar Shiksha |
-
 ## Before and after
 
-No authenticated old-and-new website screenshots or dated redesign records were available for this project.
+A full-page screenshot of the delivered Ghar Shiksha website is available and included above. However, **no authenticated BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a historical redesign comparison.
 
-The portfolio confirms the delivered Ghar Shiksha entry, but does not establish that this was a rebuild of an earlier site. A comparison will be added only when original screenshots and their dates are available.
-
-Other projects can be explored in [Tech Conversion's portfolio](https://techconversion.tech/portfolio).
+Other documented transformations can be explored at [Tech Conversion's portfolio](https://techconversion.tech/portfolio) and [before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
@@ -101,6 +134,15 @@ Any results added later should identify the reporting period, measurement source
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
 
-This repository is a public-facing project record, not a distribution of Ghar Shiksha's private source code, tutor identities, student records, parent enquiries, credentials or internal systems. Original client images and trademarks remain the property of their respective owners.
+## Repository scope and image credits
+
+This repository is a public-facing project record, not a distribution of Ghar Shiksha's private source code, tutor identities, student records, parent enquiries, credentials or internal systems.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. Original client images, names and trademarks remain the property of their respective owners.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
